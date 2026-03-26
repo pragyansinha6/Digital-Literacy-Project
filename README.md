@@ -14,10 +14,10 @@
 Selected for 4-year CS student development:  
 - **Stack Overflow** ❓: Q&A for Python/C++/JS coding problems—saved time on college projects.  
 - **GitHub** 🔗: Version control, DSA practice, Flask web dev—target: 5-10 repos/year.  
-- **LinkedIn** 👔: Networking for IT jobs, sharing music remixing side projects—aim: 500+ connections.
+- **LinkedIn** 👔: Networking for IT jobs, sharing music remixing side projects aim: 500+ connections.
 
 ### **Task 3: Hands-on Digital Tools** 🏆  
-- **HackerRank**: Completed **Python Introduction** challenge (conditionals/functions)—earned **2-star badge** 🎖️.  
+- **HackerRank**: Completed **Python Introduction** challenge (conditionals/functions) earned **2-star badge** 🎖️.  
 - **Google Forms**: Built awareness quiz for group sharing—boosts Python/DSA efficiency.
 - **Google Forms Link**: https://forms.gle/DcmUJBEmFRWW8jtQ6
 - **Google Forms Responses**: https://docs.google.com/spreadsheets/d/1yAGS8V17UQqRNJuB_5cN853vELcBuc_02g1sPSdI0XY/edit?resourcekey=&gid=1517495231#gid=1517495231
