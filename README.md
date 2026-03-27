@@ -19,8 +19,8 @@ Selected for 4-year CS student development:
 ### **Task 3: Hands-on Digital Tools** 🏆  
 - **HackerRank**: Completed **Python Introduction** challenge (conditionals/functions) earned **2-star badge** 🎖️.  
 - **Google Forms**: Built awareness quiz for group sharing—boosts Python/DSA efficiency.
-- **Google Forms Link**: https://forms.gle/DcmUJBEmFRWW8jtQ6
-- **Google Forms Responses**: https://docs.google.com/spreadsheets/d/1yAGS8V17UQqRNJuB_5cN853vELcBuc_02g1sPSdI0XY/edit?resourcekey=&gid=1517495231#gid=1517495231
+- For testing your awareness in regards of Digital lLiteracy, **[click here](https://forms.gle/DcmUJBEmFRWW8jtQ6)** to take a quiz on it!
+- The **[reponses sheet](https://docs.google.com/spreadsheets/d/1yAGS8V17UQqRNJuB_5cN853vELcBuc_02g1sPSdI0XY/edit?resourcekey=&gid=1517495231#gid=1517495231)** which manages the reponse data efficiently is also linked here.
 
 ### **Task 4: Communication Etiquette** 📧📱  
 Created checklists (5 Do's/Don'ts each):  
